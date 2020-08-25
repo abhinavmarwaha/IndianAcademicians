@@ -10,3 +10,7 @@ cd IndianAcademicians
 npm i
 npm run start
 ```
+
+# Demo
+
+[indianacademicians.netlify.app/](indianacademicians.netlify.app/)
