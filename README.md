@@ -14,3 +14,13 @@ npm run start
 # Demo
 
 [indianacademicians.netlify.app/](https://indianacademicians.netlify.app/)
+
+# Screenshots
+
+## Desktop
+
+<img src="/assets/images/siteshot_desktop.jpeg">
+
+## Mobile
+
+<img src="/assets/images/siteshot_mobile.jpeg">
