@@ -1,6 +1,6 @@
 # Indian Academicians
 
-On mission to inspire young Academicians
+A demo website for the screening purpose for a DST project.
 
 # Getting Started
 
